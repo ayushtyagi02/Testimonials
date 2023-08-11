@@ -7,14 +7,14 @@
     /* outline: 2px solid blue/; */
     width: 94%;
     height: 100%;
-    padding: 2rem 10rem 2rem 10rem;
+    padding: 2% 4% 2% 4%;
     
     /* height: 100%; */
 }
 .img-titles{
     display: flex;
-    height:120px;
-    width: 500px;
+    height:80%;
+    width:110%;
    
     text-align: center;
 
@@ -27,8 +27,8 @@
 .head{
     width: 10rem;
     text-align: center ;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 8%;
+    margin-bottom:6%;
 }
 .image{
     position: absolute;
@@ -72,6 +72,6 @@ img{
 }
 .text{
     text-align: center;
-    margin:1.8rem auto 1.8rem auto;
+    margin:10% auto 10% auto;
     font-family: 'Satisfy', cursive;
 }

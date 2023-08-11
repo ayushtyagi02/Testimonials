@@ -2,12 +2,12 @@
     display:flex;
     /* background-color: black; */
     flex-direction: column;
-    margin: 1.5rem auto;
+    margin: 2% auto;
     justify-content: center;
     align-items: center;
-    width: 550px;
+    width:35%;
     border-radius: 8px;
-   min-height: 200px;
+    max-height: 10%px;
     /* outline: 2px solid black; */
     background-color: white;
 }
