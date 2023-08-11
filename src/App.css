@@ -1,0 +1,22 @@
+.app{
+    display:flex;
+    height: 100vh;
+    background-color: rgba(193, 180, 217, 0.715);
+
+    flex-direction: column;
+    /* margin: auto 0;
+     */
+     /* justify-content: center; */
+     align-items: center;
+    /* background-color: blue; */
+}
+h1{
+    margin-top: 9rem;
+}
+.underline{
+    background-color: rgb(129, 96, 177);
+    margin-top: .2rem;
+    width: 7rem;
+    border-radius: 5px;
+    height: .2rem;
+}

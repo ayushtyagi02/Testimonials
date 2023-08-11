@@ -1,0 +1,77 @@
+.inner{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    /* outline: 2px solid blue/; */
+    width: 94%;
+    
+    padding: 2rem 10rem 2rem 10rem;
+    
+    /* height: 100%; */
+}
+.img-titles{
+    display: flex;
+    height:120px;
+    width: 500px;
+   
+    text-align: center;
+
+}
+.name{
+    width: 15rem;
+    text-align: center;
+    /* outline: 2px solid red; */
+}
+.head{
+    width: 10rem;
+    text-align: center ;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.image{
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(129, 96, 177);
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    transform: scale(.7);
+    margin: -7.2rem 0 0 -1.1rem;
+}
+#job{
+    text-transform: uppercase;
+    font-size: 11px;
+    transform: translateX(2.3rem);
+    opacity: .6;
+    color: rgb(129, 96, 177);
+    
+    font-weight: 600;
+    /* text-align: center;// */
+    justify-self: center;
+    /* outline: 2px solid black; */
+}
+img{
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    transform: scale(.7);
+    margin: -7rem 0 0 -1.5rem;
+    /* flex-grow: 1; */
+   
+}
+.reviews{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+   
+}
+.text{
+    text-align: center;
+    margin:1.8rem auto 1.8rem auto;
+    font-family: 'Satisfy', cursive;
+}
